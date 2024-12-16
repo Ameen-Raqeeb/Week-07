@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.meh {
+    background-color: aqua;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.ran img {
+    margin:auto;
+    display:block;
+    width : 350px;
+    height: 500px;
+
+}
+
+.riz {
+    text-align: center;
+    background-color: rgb(112, 121, 8);
+    font-size: 30px;
+}
